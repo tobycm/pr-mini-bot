@@ -2,14 +2,16 @@
 
 a miniature bot that mimics 8339 2025 frc bot hehe
 
-# WIP
-
-## 3D model
-
-![3d wip](./3d_wip.png)
-
 ## PCB
 
-![pcb wip](./pcb_wip.png)
+### 3D View
 
-![pcb wip 3d](./pcb_wip_3d.png)
+![3d view](./images/3d.png)
+
+### Front
+
+![pcb front](./images/front.png)
+
+### Back
+
+![pcb back](./images/back.png)
