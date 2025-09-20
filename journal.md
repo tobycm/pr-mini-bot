@@ -5,7 +5,7 @@
 **Started:** September 07, 2025  
 **Finished:** Sep 08, 2025  
 **Total Logs:** 6  
-**Time Invested:** 10 hours  
+**Time Invested:** 20 hours  
 **GitHub:** [https://github.com/tobycm/pr-mini-bot](https://github.com/tobycm/pr-mini-bot)
 
 ### Description
@@ -27,7 +27,7 @@ a miniature bot that mimics 8339 2025 frc bot hehe
 
 ### laying out the general robot build - September 07, 2025 <a id="laying-out-the-general-robot-build-2025-09-07"></a>
 
-**Time Spent:** 2h 40m
+**Time Spent:** 4h 40m
 
 #### What I Did
 
@@ -49,7 +49,7 @@ making the schematic
 
 ### wired up the schematic - September 08, 2025 <a id="wired-up-the-schematic-2025-09-08"></a>
 
-**Time Spent:** 2h 0m
+**Time Spent:** 3h 0m
 
 #### What I Did
 
@@ -67,7 +67,7 @@ pcb layout yeahhh
 
 ### fix schematic - September 08, 2025 <a id="fix-schematic-2025-09-08"></a>
 
-**Time Spent:** 40m
+**Time Spent:** 1h 40m
 
 #### What I Did
 
@@ -85,7 +85,7 @@ pcb layout for real
 
 ### i <3 CAD - September 08, 2025 <a id="i-<3-cad-2025-09-08"></a>
 
-**Time Spent:** 50m
+**Time Spent:** 2h 50m
 
 #### What I Did
 
@@ -107,7 +107,7 @@ pcb routing now that i have the pcb shape yay
 
 ### added holes and more pcb layout work - September 08, 2025 <a id="added-holes-and-more-pcb-layout-work-2025-09-08"></a>
 
-**Time Spent:** 2h 0m
+**Time Spent:** 3h 0m
 
 #### What I Did
 
@@ -129,7 +129,7 @@ finish pcb layout
 
 ### pcb layout done guhhh - September 08, 2025 <a id="pcb-layout-done-guhhh-2025-09-08"></a>
 
-**Time Spent:** 1h 50m
+**Time Spent:** 4h 50m
 
 #### What I Did
 
